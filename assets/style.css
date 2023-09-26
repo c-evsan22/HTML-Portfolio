@@ -20,27 +20,42 @@ text-align: justify;
     text-align: justify;
 }
 
+.report {
+    background-color: whitesmoke;
+    font-size: 20px;
+    border-left: 2px solid black;
+    margin-left: 20px;
+    padding: 2%;
+    text-align: justify;
+}
+
+
 .main {
-    border: 2px solid black;
-    margin-bottom:7px
+    border-left: 5px solid black;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    margin-left: 5px;
 }
 
 .surf {
-    border: 2px solid black;
-    margin-bottom: 5px;
+    border-left: 5px solid black;
+    margin-left: 5px;
+    padding-left: 10px;
+    margin-bottom: 15%;
 }
 
 .projects{
     display: flex;
     flex-wrap: wrap;
-    border: 2px solid black;
-    display: flex;
-    justify-content: center;
+    border-right: 5px solid black;
+    padding-left: 10px;
+    margin-left: 5px;
+    justify-content: right;
 }
 
 .projects section {
-    border: 2px solid black;
-    width: 50%;
+    border-right: 5px solid black;
+    width: 40%;
     padding: 2px;
     margin: 10px;
     background-color: whitesmoke;
@@ -49,10 +64,10 @@ text-align: justify;
 }
 
 .about{
-    border-left: 2px solid black;
-    padding-left: 5%;
+    border-right: 5px solid black;
     margin-bottom: 10%;
-    margin-left: 80%;
+    margin-left: 90%;
+    margin-right: 15px;
 
 }
 
@@ -62,8 +77,9 @@ text-align: justify;
     border: 2px solid black;
 }
 footer section {
-    border: 2px solid black;
-    width: 50%;
+    text-align: center;
+    border-left: 5px solid black;
+    width: 40%;
     padding: 2px;
     margin: 10px;
     background-color: whitesmoke;
