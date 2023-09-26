@@ -1,7 +1,7 @@
 *{
     background-color: lightsteelblue;
     font-family: 'Times New Roman', Times, serif;
-
+ 
 }
 
 header {
@@ -14,7 +14,9 @@ text-align: justify;
 .header {
     background-color: whitesmoke;
     font-size: 20px;
-    border: 2px solid black;
+    border-left: 2px solid black;
+    margin-left: 20px;
+    padding: 2%;
     text-align: justify;
 }
 
