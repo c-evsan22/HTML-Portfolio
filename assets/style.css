@@ -1,12 +1,12 @@
 *{
     background-color: lightsteelblue;
+    font-family: 'Times New Roman', Times, serif;
 
 }
 
 header {
     background-color: whitesmoke;
 font-size: 20px;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 border: 2px solid black;
 text-align: justify;
 }
@@ -14,7 +14,6 @@ text-align: justify;
 .header {
     background-color: whitesmoke;
     font-size: 20px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     border: 2px solid black;
     text-align: justify;
 }
