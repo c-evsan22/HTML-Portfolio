@@ -20,7 +20,7 @@ text-align: justify;
     text-align: justify;
 }
 
-.cats {
+.main {
     border: 2px solid black;
     margin-bottom:7px
 }
@@ -48,10 +48,12 @@ text-align: justify;
     justify-content: center;
 }
 
-.line{
+.about{
     border-left: 2px solid black;
     padding-left: 5%;
     margin-bottom: 10%;
+    margin-left: 80%;
+
 }
 
 .footer{
